@@ -40,7 +40,7 @@ docker-compose up --build
 
 Create database and migrate.
 
-[localhost:8080](http://localhost:8080/)
+[localhost:8080](http://localhost:8080)
 
 ```bash
 php artisan migrate --seed
@@ -61,8 +61,8 @@ npm run dev
 
 Register and verify your account.
 
-* [localhost:8000](http://localhost:8000/)
-* [MailHog](http://localhost:8025/)
+* [localhost:8000](http://localhost:8000)
+* [MailHog](http://localhost:8025)
 
 Enjoy!
 
